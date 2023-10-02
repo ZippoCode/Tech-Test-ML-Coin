@@ -25,3 +25,12 @@ In the context of this project, the choice of loss function fell upon MSE (Mean 
 An alternative approach was explored during the experimentation phase, which diverged from deep learning methodologies and instead leveraged the OpenCV Hough Transform function for circle detection.
 
 Although this approach resulted in a slightly lower accuracy, it demonstrated a notable advantage in terms of execution speed, making it a pragmatic choice for specific scenarios.
+
+# Results
+U-Net Result
+
+![U-Net Result](https://github.com/ZippoCode/Tech-Test-ML-Coin/blob/main/results/u_net_results.png "U-Net result")
+
+Hough Transform Result
+
+![Hough Transform](https://github.com/ZippoCode/Tech-Test-ML-Coin/blob/main/results/hough_results.png)
